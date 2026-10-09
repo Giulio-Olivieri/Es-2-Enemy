@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Enemy.EnemyClass/EnemyProject.Domain.csproj" />
+    <Project Path="src/Enemy.UIConsole/EnemyProject.UIConsole.csproj" />
+  </Folder>
+</Solution>
