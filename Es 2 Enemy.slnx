@@ -3,4 +3,7 @@
     <Project Path="src/Enemy.EnemyClass/EnemyProject.Domain.csproj" />
     <Project Path="src/Enemy.UIConsole/EnemyProject.UIConsole.csproj" />
   </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/EnemyClass.UnitTest/EnemyClass.UnitTest.csproj" Id="c3f34186-de0b-4301-b213-89df2d3121ea" />
+  </Folder>
 </Solution>

@@ -9,7 +9,7 @@
             get { return _level; }
 
             private set
-            {
+            {       
                 if (value < 1)
                 {
                     throw new ArgumentOutOfRangeException("Level must be greater than or equal to 1.");
